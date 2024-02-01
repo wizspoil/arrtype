@@ -1,11 +1,11 @@
 # arrtype
-A type dumper for wizard101
+A type dumper for pirate101
 
 ## install
 `pip install arrtype`
 
 ## usage
-an instance of wizard101 must be open for all commands
+an instance of pirate101 must be open for all commands
 
 ```shell
 # generate a normal dump in the current directory named after the current revision

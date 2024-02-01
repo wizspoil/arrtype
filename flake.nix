@@ -1,5 +1,5 @@
 {
-  description = "A type dumper for wizard101";
+  description = "A type dumper for pirate101";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
