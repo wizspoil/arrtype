@@ -17,7 +17,7 @@ $ arrtype --version 1 --indent 4
 ```
 
 ## support
-discord: https://discord.gg/2u7bGvhYcJ
+discord: <https://discord.gg/wcftyYm6qe>
 
 ## json spec
 
